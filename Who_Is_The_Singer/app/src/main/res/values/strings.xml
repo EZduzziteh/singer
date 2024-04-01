@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Who is the Singer</string>
+    <string name="about_title">About</string>
+    <string name="help_title">help</string>
+    <string name="about_text">Who is the Singer quiz is a fun and engaging mobile application that is designed for users who are interested in testing their knowledge of popular singers.The app presents users with a series of questions,each containing an image of a singer and four possible answers to choose from.The app features a user-friendly interface that is easy to navigate and use for people of all ages.With Who is the Singer quiz, users can have fun while learning interesting facts about their favorite singers and improving their knowledge of music</string>
+    <string name="help_text">The user has to select one option from the given four options. If the user selects the correct answer, the option color will change to green. However, if the user chooses the wrong answer, the option color will change to red. After selecting one option from four options, all the remaining three options become disabled, and the next question will be displayed.</string>
+    <string name="help_header">Help</string>
+    <string name="back_button">Back</string>
+    <string name="about_header">About</string>
+    <string name="play_again_button">Play Again</string>
+</resources>
